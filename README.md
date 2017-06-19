@@ -2,6 +2,7 @@
 Posters about the Lift language
 
 ## 2017
+- Poster by _Bastian Hagedorn_: [**Performance Portable Stencil Code Generation**](http://www.lift-project.org/posters/2017/HagedornPUMPS2017Poster.pdf), at the *[PUMPS Summer School 2017](http://bcw.ac.upc.edu/PUMPS2017/) at the Barcelona Supercomputing Center (BSC)*, Spain, 28/06/2017.
 
 - Poster by _Larisa Stoltzfus_: [**A Modular Approach to Performance, Portability and Productivity for 3D Wave Models Using the Lift Framework**](http://www.lift-project.org/posters/2017/StoltzfusPPar2017Poster.pdf), at the *[PPar Student Showcase Event](http://pervasiveparallelism.inf.ed.ac.uk/events/) at the University of Edinburgh*, UK, 14/06/2017.
 
