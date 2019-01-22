@@ -1,6 +1,9 @@
 # Posters
 Posters about the Lift language
 
+## 2019
+- Poster by _Naums Mogers_: [**Towards Mapping Lift to Deep Neural Network Accelerators**](http://www.lift-project.org/posters/2019/MogersHiPEAC2019Poster.pdf), at the *[HiPEAC 2019 conference](https://www.hipeac.net/2019/valencia/)*  in Valencia Spain, 21/01/2019.
+
 ## 2017
 - Poster by _Bastian Hagedorn_: [**Performance Portable Stencil Code Generation**](http://www.lift-project.org/posters/2017/HagedornPUMPS2017Poster.pdf), at the *[PUMPS Summer School 2017](http://bcw.ac.upc.edu/PUMPS2017/) at the Barcelona Supercomputing Center (BSC)*, Spain, 28/06/2017.
 
