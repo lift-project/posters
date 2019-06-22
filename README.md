@@ -2,6 +2,8 @@
 Posters about the Lift language
 
 ## 2019
+- Poster by _Christof Schlaak_: [**High-Level Synthesis of Neural Networks for FPGAs**](http://www.lift-project.org/posters/2019/SchlaakHiPEAC2019Poster.pdf), at the *[HiPEAC CSW Spring 2019](https://www.hipeac.net/csw/2019/edinburgh)* at the University of Edinburgh, UK, 16/04/2019.
+
 - Poster by _Naums Mogers_: [**Towards Mapping Lift to Deep Neural Network Accelerators**](http://www.lift-project.org/posters/2019/MogersHiPEAC2019Poster.pdf), at the *[HiPEAC 2019 conference](https://www.hipeac.net/2019/valencia/)*  in Valencia Spain, 21/01/2019.
 
 ## 2017
